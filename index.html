@@ -9,7 +9,11 @@
   </head>
   <body>
     <div class="container">
-      <h1>Calculator</h1>
+      <div class="jumbotron">
+        <h1>Calculator</h1>
+        <h3>Input numbers to add, subtract, multiply, or divide!</h3>
+      </div>
+
       <form id="calculator">
         <div class="form-group">
           <label for="input1">1st number:</label>
@@ -19,6 +23,8 @@
           <label for="input2">2nd number:</label>
           <input id="input2" class="form-control" type="text">
         </div>
+
+        <p>Select an operator:</p>
         <div class="radio">
           <label>
             <input type="radio" name="operator" value="add" checked>

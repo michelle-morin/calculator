@@ -1,0 +1,26 @@
+.jumbotron {
+  background-color: #CFD8E9;
+  color: #03225E;
+  margin: 20px 0px;
+}
+
+#calculator {
+  background-color: #CFD8E9;
+  color: #03225E;
+  margin: 20px 0px;
+  padding: 50px;
+}
+
+#output {
+  background-color: #CFD8E9;
+  color: #03225E;
+  margin: 20px 0px;
+  padding: 20px;
+}
+
+.btn {
+  background-color: #03225E;
+  color: #CFD8E9;
+  margin: 20px 0px;
+  width: 20%;
+}
